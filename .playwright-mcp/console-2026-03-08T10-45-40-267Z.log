@@ -1,0 +1,6 @@
+[     265ms] [ERROR] [mux-player 3.3.4] <media-controller> failed to upgrade! @ https://www.moveom.co.il/_next/static/chunks/main-6559c590381493dc.js?dpl=dpl_4bLxf1h4E7h9xH74fSsh2vDEYfQh:4
+[     267ms] [ERROR] [mux-player 3.3.4] <media-controller> failed to upgrade! @ https://www.moveom.co.il/_next/static/chunks/main-6559c590381493dc.js?dpl=dpl_4bLxf1h4E7h9xH74fSsh2vDEYfQh:4
+[     269ms] [ERROR] [mux-player 3.3.4] <media-controller> failed to upgrade! @ https://www.moveom.co.il/_next/static/chunks/main-6559c590381493dc.js?dpl=dpl_4bLxf1h4E7h9xH74fSsh2vDEYfQh:4
+[     270ms] [ERROR] [mux-player 3.3.4] <media-controller> failed to upgrade! @ https://www.moveom.co.il/_next/static/chunks/main-6559c590381493dc.js?dpl=dpl_4bLxf1h4E7h9xH74fSsh2vDEYfQh:4
+[     325ms] [WARNING] Media Chrome: No style sheet found on style tag of JSHandle@node @ https://www.moveom.co.il/_next/static/chunks/main-6559c590381493dc.js?dpl=dpl_4bLxf1h4E7h9xH74fSsh2vDEYfQh:4
+[     509ms] [WARNING] Clerk: The prop "afterSignInUrl" is deprecated and should be replaced with the new "fallbackRedirectUrl" or "forceRedirectUrl" props instead. Learn more: https://clerk.com/docs/guides/custom-redirects#redirect-url-props @ https://www.moveom.co.il/_next/static/chunks/main-6559c590381493dc.js?dpl=dpl_4bLxf1h4E7h9xH74fSsh2vDEYfQh:4
